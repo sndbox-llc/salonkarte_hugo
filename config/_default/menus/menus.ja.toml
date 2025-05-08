@@ -9,15 +9,11 @@
   name = "💰料金"
   url = "/docs/system/price/"
   weight = 20
-[[main]]
-  name = "お知らせ"
-  url = "/blog/"
-  weight = 21
 
 [[main]]
-  name = "逆引き辞典"
-  identifier = "reverse-lookup/about/about"
-  url = "/reverse-lookup/"
+  name = "News"
+  identifier = "news/about/about"
+  url = "/news/"
   weight = 26
 
 [[main]]

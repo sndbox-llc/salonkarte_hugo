@@ -1,6 +1,6 @@
 ---
 url: '/docs/task/'
-title: 'タスク'
+title: 'カルテ'
 description: ''
 weight: 30000
 
