@@ -1,6 +1,6 @@
 ---
 url: '/docs/kankeisha/'
-title: '関係者'
+title: 'お客様アプリ'
 description: ''
 weight: 50000
 
