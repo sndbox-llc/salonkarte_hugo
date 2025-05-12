@@ -15,8 +15,8 @@
   [ja.params]
     languageISO = "JA"
     languageTag = "ja-JP"
-    titleAddition = "TASKMANanger Document"
-    description = "Task管理アプリ"
-    titleHome = "TASKMANanger"
+    titleAddition = "Salonkarte Document"
+    description = "サロンカルテ"
+    titleHome = "サロンカルテ"
     footer = '開発運営:<a href="https://sndbox.jp/">合同会社サンドボックス</a>'
-    alertText = 'Welcome to TASKMANanger'
+    alertText = 'Welcome to Salonkarte'
