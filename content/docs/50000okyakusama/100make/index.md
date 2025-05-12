@@ -1,10 +1,10 @@
 ---
-url: '/docs/kankeisha/make/'
+url: '/docs/okyakusama/about/'
 title: 'カルテの情報をお客様と共有'
 menuTitle: ''
 description: ''
 toc: true
-weight: 10200
+weight: 50100
 tags: []
 contributors: []
 ---

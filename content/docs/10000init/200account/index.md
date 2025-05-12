@@ -1,5 +1,5 @@
 ---
-url: '/docs/main/_about/'
+url: '/docs/main/account/'
 title: 'アカウント作成'
 menuTitle: 'アカウント作成'
 description: ''

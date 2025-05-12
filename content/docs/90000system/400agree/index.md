@@ -4,7 +4,7 @@ title: 'システム利用規約'
 menuTitle: ''
 description: ''
 toc: true
-weight: 90200
+weight: 90400
 tags: []
 contributors: []
 ---

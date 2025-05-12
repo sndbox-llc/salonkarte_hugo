@@ -1,5 +1,5 @@
 ---
-url: '/docs/anken/'
+url: '/docs/pos/'
 title: 'レジシステム'
 description: ''
 weight: 40000

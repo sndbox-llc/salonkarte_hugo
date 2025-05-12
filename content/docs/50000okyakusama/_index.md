@@ -1,5 +1,5 @@
 ---
-url: '/docs/kankeisha/'
+url: '/docs/okyakusama/'
 title: 'お客様アプリ'
 description: ''
 weight: 50000

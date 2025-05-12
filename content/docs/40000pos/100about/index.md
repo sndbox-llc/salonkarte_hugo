@@ -1,10 +1,10 @@
 ---
-url: '/docs/anken/make/'
+url: '/docs/pos/about/'
 title: 'サロンカルテFI概要'
 menuTitle: ''
 description: ''
 toc: true
-weight: 10200
+weight: 40100
 tags: []
 contributors: []
 ---
