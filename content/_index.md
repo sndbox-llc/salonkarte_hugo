@@ -5,7 +5,7 @@ date: '2023-04-01'
 showPrice: true
 heroTitle: 'サロンカルテ'
 heroSubTitle: 'お客様の定着理由は、「私のこと分かってくれている！覚えてくれている！」'
-heroText: '極限まで無駄を省き、必要なものだけで構成されたシンプルな顧客管理システム。ヘアサロン・ネイルサロン・その他、様々な業界でご利用いただいております'
+heroText: 'サロンカルテとは、美容室・ネイルサロン・アイラッシュサロンなどの各種サロン向けに開発された、お客様の施術履歴を管理するためのカルテシステムです。<br>クラウドとスマホ・タブレットを主に開発したことにより、より安価により簡単に顧客管理が可能です。<br>顧客満足度の向上を図り、大切なお客様を定着利用していただく観点にフォーカスしたシステムです。'
 heroLinks:
   - label: 'スタイラスペンで楽々メモ'
     url: 'docs/judge/'
@@ -19,10 +19,11 @@ heroLinks:
 <div class="container my-5" id="nocode-custom-daily-report">
 <div class="row align-items-center rounded-3 border shadow-lg">
 <div class="col-lg-7">
-<h2 class="display-4 fw-bold text-body-emphasis lh-1">施術管理に特化</h2>
+<h2 class="display-4 fw-bold text-body-emphasis lh-1">施術前・施術後の写真を管理</h2>
 <p class="lead">
 
-手書きでOK,スマホで写真、とにかく簡単操作
+タブレットで写真をパシャッっと撮影したら、そのままサロンカルテに利用できます。SDカードやケーブルで繋ぐ必要は有りません。
+1枚のカルテにつき、写真・手書き・テキストが無制限に入ります。施術の前と施術の後や、正面からと背面からの画像など、自由にお使い下さい。
 
 </p>
 {{< link-card title="フォームのカスタム" description="" href="docs/setup/template/">}}
@@ -38,11 +39,11 @@ heroLinks:
 <div class="container my-5" id="nocode-custom-daily-report">
 <div class="row align-items-center rounded-3 border shadow-lg">
 <div class="col-lg-7">
-<h2 class="display-4 fw-bold text-body-emphasis lh-1">リーズナブル</h2>
+<h2 class="display-4 fw-bold text-body-emphasis lh-1">手書きでOK</h2>
 <p class="lead">
 
-100件まで無料
-年間15,000円で無制限！
+カルテ作成時にキーボードの操作は不要です。スタイラスペンで簡単に施術時の内容を記録できます。
+タブレットなら大きめのキャンバスに自由にメモを残すことが可能です。
 
 </p>
 {{< link-card title="案件管理とは" description="" href="docs/anken/">}}
@@ -58,11 +59,11 @@ heroLinks:
 <div class="container my-5" id="nocode-custom-daily-report">
 <div class="row align-items-center rounded-3 border shadow-lg">
 <div class="col-lg-7">
-<h2 class="display-4 fw-bold text-body-emphasis lh-1">完全クラウド</h2>
+<h2 class="display-4 fw-bold text-body-emphasis lh-1">マルチデバイス対応</h2>
 <p class="lead">
 
-ハード不要
-安全のバックアップ
+完全クラウドだから様々なデバイスでご利用いただけます。
+パソコンとの連携ももちろんOKです。印刷したり、管理者がチェックしたり・・・使いなれたデバイスで操作できます。
 
 </p>
 {{< link-card title="タスク管理とは" description="" href="docs/calendar/">}}
@@ -78,11 +79,12 @@ heroLinks:
 <div class="container my-5" id="nocode-custom-daily-report">
 <div class="row align-items-center rounded-3 border shadow-lg">
 <div class="col-lg-7">
-<h2 class="display-4 fw-bold text-body-emphasis lh-1">マルチユーザ対応</h2>
+<h2 class="display-4 fw-bold text-body-emphasis lh-1">簡単操作</h2>
 <p class="lead">
 
-複数スタッフの
-同時利用もOK！
+サロンカルテは、現場スタッフが簡単に使いこなせることを主に開発されました。
+予約管理・売上げ管理・分析機能などを排除し管理者と現場スタッフの作業を分け、お客様とのコミュニケーションの最大値を発揮するアプリです。
+これによりサロンへのファン層の定着が実現できます。
 
 </p>
 {{< link-card title="裁判管理" description="" href="docs/judge/">}}

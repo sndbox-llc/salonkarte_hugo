@@ -11,9 +11,89 @@ contributors: []
 
 ## サロンカルテに連動したPOSシステム
 
+サロンカルテの顧客データや施術履歴といったデータを、サロンカルテFIというレジシステムが連動します。
+
 {{<iTablet filename="img/posIcatch" msg="顧客の作成画面">}}
 
-サロンカルテの顧客データと連動できるレジアプリです。  
-タブレットやPCから利用が可能で、専門の機器は不要です。
+## レジから施術履歴が見れる
 
-レジ機能はオプション扱いです。詳しくはお問い合わせください。
+サロンカルテに残っているお客様の施術履歴が、レジからいつでも読めるようになりました。
+前回の来店日からの経過日数を簡単に知ることができるので、例えば45日以内の再来店時は値引きするようなサービスをしている美容室さま・ネイルサロン様でもお使いになれます
+
+## 複数の店舗を経営されている方へ朗報です
+
+サロンカルテFIは他店舗経営者の強い味方です。
+本店と支店の売上高を瞬時に合算することができるので、離れたお店の情報をいつでもリアルタイムに把握することができます
+
+## サロンカルテを導入されていれば格安です
+
+サロンカルテを導入されているサロン様へ、特別価格でレジをご提案させていただいております。
+１店舗　年間使用料　5,000円（税別）です。
+年間使用料　サロンカルテ（15,000円）＋レジ（5,000円）＝20,000円（税別）
+
+店舗の売上が１箇所で確認できます。それも今、の売上もリアルタイムに反映されます。
+
+## サロンカルテの顧客データが連動
+
+サロンカルテに登録したお客様リストがそのままレジに表示されます。まさにサロンカルテ専用のレジシステムです。
+
+## 便利なレジ機能
+
+一般的なレジと異なり、クラウド上で管理するレジシステムです。クラウドならではのメリットが沢山あります。
+
+### 生産性の管理
+
+一人のお客様をとっても、シャンプーやカット、カラーなど様々な工程があります。
+各工程にポイントを付けることで、従業員の生産性を管理することができます。
+
+### 従業員のランキング
+
+がんばった従業員はひと目でわかります。
+生産性の管理は、従業員のやる気を奮い起こす一つのきっかけになるはずです。
+
+### フルマネージド
+
+レジのデータバックアップは全自動です。面倒なバックアップ処理は不要です。
+
+---
+
+<div class="container py-4">
+
+<div class="d-flex overflow-auto gap-3 scroll-gallery">
+    <div class="flex-shrink-0 text-center">
+      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
+      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
+    </div>
+        <div class="flex-shrink-0 text-center">
+      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
+      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
+    </div>
+    <div class="flex-shrink-0 text-center">
+      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
+      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
+    </div>
+    <div class="flex-shrink-0 text-center">
+      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
+      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
+    </div>
+    <div class="flex-shrink-0 text-center">
+      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
+      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
+    </div>
+    <div class="flex-shrink-0 text-center">
+      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
+      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
+    </div>
+    <div class="flex-shrink-0 text-center">
+      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
+      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
+    </div>
+    <div class="flex-shrink-0 text-center">
+      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
+      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
+    </div>
+
+    <!-- 以下、画像ブロックを繰り返し追加 -->
+
+  </div>
+</div>

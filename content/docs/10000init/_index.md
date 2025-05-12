@@ -1,6 +1,6 @@
 ---
 url: '/docs/setup/'
-title: '初期設定'
+title: 'サロンカルテ操作ガイド'
 description: ''
 weight: 10000
 

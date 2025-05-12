@@ -11,10 +11,22 @@ weight = 99000
   priority = 0.9
 +++
 
+<!-- 電話カード -->
+<div class="card border rounded p-4 my-5 text-center">
+
+  <!-- 本文 -->
+  <div style="font-family: 'Hiragino Mincho ProN', serif; color: #3d2b1f;">
+    <p class="mb-2" style="font-size: 1.1rem;">電話でのお問い合わせ</p>
+    <p class="fw-bold mb-3" style="font-size: 2.5rem;">
+      <a href="tel:0286366701" class="text-decoration-none text-dark">028-637-1861</a>
+    </p>
+    <p class="mb-0" style="font-size: 1rem;">受付時間　午前９：００〜午後６：００</p>
+  </div>
+</div>
+
 <div id="contactForm">
 
-Taskmanに興味を持っていただきありがとうございます。  
-ご不明な点がございましたら、以下のフォームよりお問い合わせください。
+サロンカルテについてご不明な点がございましたら、以下のフォームよりお問い合わせください。
 
 - 3営業日以内に返信いたします
 - 自動返信メールが届かない場合は入力したメールアドレスに誤りがある可能性があります。ご確認ください。
@@ -68,7 +80,7 @@ async function submit() {
     data: {
       email: email.value,
       text: `${content.value}\n`,
-      site: "taskman"  // ← ここを追加！
+      site: "salonkarte"  // ← ここを追加！
     }
   };
 

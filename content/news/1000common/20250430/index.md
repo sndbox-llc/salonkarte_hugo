@@ -3,7 +3,7 @@ title: 'L-manager命名'
 description: 'タスク管理のアプリケーション名が決定しました'
 summary: 'タスク管理のアプリケーション名が決定しました'
 date: 2025-04-30T13:00:00+09:00
-draft: false
+draft: true
 weight: 50
 categories: []
 tags: []
