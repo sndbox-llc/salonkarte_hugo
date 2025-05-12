@@ -26,10 +26,10 @@ heroLinks:
 1枚のカルテにつき、写真・手書き・テキストが無制限に入ります。施術の前と施術の後や、正面からと背面からの画像など、自由にお使い下さい。
 
 </p>
-{{< link-card title="フォームのカスタム" description="" href="docs/setup/template/">}}
+{{< link-card title="カルテの書き方" description="" href="docs/main/create/">}}
 </div>
 <div class="col-lg-9">
-{{<iTablet filename="test" msg="テスト" alice="ok">}}
+{{<iTablet filename="photos" msg="テスト" alice="ok">}}
 
 </div>
 </div>
@@ -49,7 +49,7 @@ heroLinks:
 {{< link-card title="案件管理とは" description="" href="docs/anken/">}}
 </div>
 <div class="col-lg-9">
-{{<iTablet filename="test" msg="テスト" alice="ok">}}
+{{<iTablet filename="freehand" msg="テスト" alice="ok">}}
 
 </div>
 </div>
@@ -66,16 +66,16 @@ heroLinks:
 パソコンとの連携ももちろんOKです。印刷したり、管理者がチェックしたり・・・使いなれたデバイスで操作できます。
 
 </p>
-{{< link-card title="タスク管理とは" description="" href="docs/calendar/">}}
+{{< link-card title="動作環境" description="" href="docs/system/hard/">}}
 </div>
 <div class="col-lg-9">
-{{<iTablet filename="month" msg="カレンダ" alice="ok">}}
+{{<icatch filename="multi" msg="カレンダ" alice="ok">}}
 
 </div>
 </div>
 </div>
 
-<!-- ▼カレンダー -->
+<!-- ▼簡単操作 -->
 <div class="container my-5" id="nocode-custom-daily-report">
 <div class="row align-items-center rounded-3 border shadow-lg">
 <div class="col-lg-7">
@@ -87,11 +87,10 @@ heroLinks:
 これによりサロンへのファン層の定着が実現できます。
 
 </p>
-{{< link-card title="裁判管理" description="" href="docs/judge/">}}
 </div>
 <div class="col-lg-9">
 
-{{< picture src="judge.webp" alt="" >}}
+{{<iTablet filename="simple" msg="シンプル操作" alice="ok">}}
 
 </div>
 </div>
