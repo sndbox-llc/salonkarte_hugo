@@ -1,5 +1,5 @@
 ---
-url: '/docs/task/view/'
+url: '/docs/main/viewKarte/'
 title: 'カルテを見る'
 menuTitle: ''
 description: ''

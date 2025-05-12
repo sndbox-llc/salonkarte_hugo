@@ -1,5 +1,5 @@
 ---
-url: '/docs/task/create/'
+url: '/docs/main/create/'
 title: 'カルテの作成'
 menuTitle: ''
 description: ''

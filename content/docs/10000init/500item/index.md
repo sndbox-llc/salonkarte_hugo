@@ -1,5 +1,5 @@
 ---
-url: '/docs/setup/items/'
+url: '/docs/main/items/'
 title: '商品の登録'
 menuTitle: '商品の登録'
 description: ''

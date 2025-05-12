@@ -1,5 +1,5 @@
 ---
-url: '/docs/setup/customer/'
+url: '/docs/main/customer/'
 title: '顧客の登録'
 menuTitle: '顧客の登録と修正'
 description: ''

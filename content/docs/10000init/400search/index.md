@@ -1,5 +1,5 @@
 ---
-url: '/docs/setup/tags/'
+url: '/docs/main/searchCustomer/'
 title: '顧客を検索する'
 menuTitle: '顧客を検索する'
 description: ''
