@@ -18,5 +18,5 @@
     titleAddition = "Salonkarte Document"
     description = "サロンカルテ"
     titleHome = "サロンカルテ"
-    footer = '開発運営:<a href="https://sndbox.jp/">合同会社サンドボックス</a>'
+    footer = '開発運営:<a href="https://hotaka-g.sndbox.jp/">株式会社ほたか</a>'
     alertText = 'Welcome to Salonkarte'
