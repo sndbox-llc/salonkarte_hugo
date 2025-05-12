@@ -16,7 +16,7 @@ contributors: []
 
 これでカテゴリが１つ追加されます。複数必要な場合は、必要な数だけカテゴリを追加してください。
 
-{{<iTablet filename="img/items" msg="顧客の作成画面">}}
+{{<iTablet filename="img/items" msg="カルテに使用する商品の登録">}}
 
 {{< callout context="caution" title="カテゴリはアルファベット順に並ぶ" icon="outline/alert-triangle" >}}
 使用頻度の高いカテゴリなどは\_や.など、辞書順の上に来やすい項目をカテゴリ名につけることで意図的に上位表示できます。
@@ -36,4 +36,4 @@ contributors: []
 商品１つ１つを削除するには、商品の横に有る削除ボタンをタップします。
 カテゴリごとの削除もできますが、カテゴリを削除するとカテゴリ内の全ての商品も削除されることに注意して下さい。
 
-{{<iTablet filename="img/removeItem" msg="顧客の作成画面">}}
+{{<iTablet filename="img/removeItem" msg="商品の削除">}}

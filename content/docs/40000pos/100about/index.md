@@ -13,7 +13,7 @@ contributors: []
 
 サロンカルテの顧客データや施術履歴といったデータを、サロンカルテFIというレジシステムが連動します。
 
-{{<iTablet filename="img/posIcatch" msg="顧客の作成画面">}}
+{{<iTablet filename="img/posIcatch" msg="サロンカルテレジ。画面イメージ">}}
 
 ## レジから施術履歴が見れる
 
@@ -56,44 +56,3 @@ contributors: []
 レジのデータバックアップは全自動です。面倒なバックアップ処理は不要です。
 
 ---
-
-<div class="container py-4">
-
-<div class="d-flex overflow-auto gap-3 scroll-gallery">
-    <div class="flex-shrink-0 text-center">
-      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
-      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
-    </div>
-        <div class="flex-shrink-0 text-center">
-      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
-      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
-    </div>
-    <div class="flex-shrink-0 text-center">
-      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
-      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
-    </div>
-    <div class="flex-shrink-0 text-center">
-      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
-      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
-    </div>
-    <div class="flex-shrink-0 text-center">
-      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
-      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
-    </div>
-    <div class="flex-shrink-0 text-center">
-      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
-      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
-    </div>
-    <div class="flex-shrink-0 text-center">
-      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
-      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
-    </div>
-    <div class="flex-shrink-0 text-center">
-      <img src="img/test.png" class="rounded" style="width: 160px;" alt="マッサージ">
-      <p class="mt-2 mb-0 text-primary fw-bold">マッサージ</p>
-    </div>
-
-    <!-- 以下、画像ブロックを繰り返し追加 -->
-
-  </div>
-</div>

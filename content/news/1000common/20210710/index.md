@@ -10,16 +10,16 @@ contributors: []
 pinned: false
 ---
 
-{{< lightbox src="guide1.png" alt="テスト画像" >}}
+{{< lightbox src="guide1.png" alt="メモの追加手順１" >}}
 
 「メモを追加」をタップしてください。
 （今までは指でずらしてテキスト画面を表示）
 
-{{< lightbox src="guide2.png" alt="テスト画像" >}}
+{{< lightbox src="guide2.png" alt="メモの編集" >}}
 
 「メモ」の表示部分をタップすると。
 
-{{< lightbox src="guide3.png" alt="テスト画像" >}}
+{{< lightbox src="guide3.png" alt="メモの編集２" >}}
 
 メモ入力画面が単独で表示されるようになりました。
 

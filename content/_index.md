@@ -7,10 +7,10 @@ heroTitle: 'サロンカルテ'
 heroSubTitle: 'お客様の定着理由は、「私のこと分かってくれている！覚えてくれている！」'
 heroText: 'サロンカルテとは、美容室・ネイルサロン・アイラッシュサロンなどの各種サロン向けに開発された、お客様の施術履歴を管理するためのカルテシステムです。<br>クラウドとスマホ・タブレットを主に開発したことにより、より安価により簡単に顧客管理が可能です。<br>顧客満足度の向上を図り、大切なお客様を定着利用していただく観点にフォーカスしたシステムです。'
 heroLinks:
-  - label: 'スタイラスペンで楽々メモ'
-    url: 'docs/judge/'
-  - label: '施術前後の写真をカルテに残す'
-    url: 'tips/mobile-device/'
+  - label: '写真と手書きメモで簡単'
+    url: 'docs/main/create/'
+  - label: 'お客様とカルテ共有'
+    url: 'docs/okyakusama/about/'
   - label: '明瞭な料金体系'
     url: 'docs/system/price/'
 ---
@@ -29,7 +29,7 @@ heroLinks:
 {{< link-card title="カルテの書き方" description="" href="docs/main/create/">}}
 </div>
 <div class="col-lg-9">
-{{<iTablet filename="photos" msg="テスト" alice="ok">}}
+{{<iTablet filename="photos" msg="カルテ作成画面" alice="ok">}}
 
 </div>
 </div>
@@ -46,10 +46,9 @@ heroLinks:
 タブレットなら大きめのキャンバスに自由にメモを残すことが可能です。
 
 </p>
-{{< link-card title="案件管理とは" description="" href="docs/anken/">}}
 </div>
 <div class="col-lg-9">
-{{<iTablet filename="freehand" msg="テスト" alice="ok">}}
+{{<iTablet filename="freehand" msg="スタイラスペンで簡単にメモを残せる" alice="ok">}}
 
 </div>
 </div>
@@ -69,7 +68,7 @@ heroLinks:
 {{< link-card title="動作環境" description="" href="docs/system/hard/">}}
 </div>
 <div class="col-lg-9">
-{{<icatch filename="multi" msg="カレンダ" alice="ok">}}
+{{<icatch filename="multi" msg="スマホ・タブレットに対応" alice="ok">}}
 
 </div>
 </div>

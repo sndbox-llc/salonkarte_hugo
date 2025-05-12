@@ -2,7 +2,7 @@
 menuTitle: '2021年4月7日|バージョンアップ2'
 title: 'バージョンアップ②'
 description: 'バージョンアップ②'
-date: 2021-04-07T13:00:00
+date: 2021-04-07T16:00:00
 draft: false
 categories: []
 tags: []
@@ -16,7 +16,7 @@ pinned: false
 
 改善しました。
 
-{{< lightbox src="guide1.png" alt="テスト画像" >}}
+{{< lightbox src="guide1.png" alt="自動採番画面イメージ" >}}
 
 注意点
 

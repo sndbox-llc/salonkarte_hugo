@@ -9,7 +9,7 @@ tags: []
 contributors: []
 ---
 
-{{<iTablet filename="img/signup" msg="顧客の作成画面">}}
+{{<iTablet filename="img/signup" msg="サロンカルテアカウント作成画面">}}
 
 初めてご利用の方はアカウントの登録が必要です。
 
@@ -26,4 +26,4 @@ contributors: []
 
 １名で使用する際も、複数名で使用する際も、スタッフの登録をしておきましょう。スタッフは後述する「カルテ作成」時に、誰が担当したかを選択する際に使用します。
 
-{{<iTablet filename="img/addStaff" msg="顧客の作成画面">}}
+{{<iTablet filename="img/addStaff" msg="スタッフアカウントの追加">}}

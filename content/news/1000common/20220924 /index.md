@@ -20,4 +20,4 @@ pinned: false
 
 よろしくお願いします。
 
-{{< lightbox src="remove.jpg" alt="テスト画像" >}}
+{{< lightbox src="remove.jpg" alt="削除画面" >}}

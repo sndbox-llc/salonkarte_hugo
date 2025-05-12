@@ -17,7 +17,7 @@ contributors: []
 1. 上部メニューから「カルテ作成」をタップ
 2. ５桁の顧客番号を入力
 
-{{<iTablet filename="img/inputDigit" msg="顧客の作成画面">}}
+{{<iTablet filename="img/inputDigit" msg="顧客番号を入力して顧客カルテを作成できます">}}
 
 {{< callout context="caution" title="この番号は存在しません" icon="outline/alert-triangle" >}}
 空席の顧客番号を入力すると「この番号は存在しません」と警告が表示されます。「AC（オールクリア）を押して、正しい顧客番号を再入力してください。
@@ -25,13 +25,13 @@ contributors: []
 
 もし顧客番号がわからない場合は、顧客一覧からカルテを作成することも可能です。
 
-{{<iTablet filename="img/karte2" msg="顧客の作成画面">}}
+{{<iTablet filename="img/karte2" msg="カルテを探す">}}
 
 ## カルテ作成画面
 
 カルテ作成画面は次のような構造になっています。
 
-{{<iTablet filename="img/makeKarte" msg="顧客の作成画面">}}
+{{<iTablet filename="img/makeKarte" msg="カルテの作成画面">}}
 
 <dl class="basic">
 <dt>顧客情報</dt>
@@ -54,19 +54,19 @@ contributors: []
 
 カルテ作成画面の左下にある「写真」をタップすると写真をカルテに添付できます。術前・術後の写真を残すことでより詳しいカルテになります。
 
-{{<iTablet filename="img/photos" msg="顧客の作成画面">}}
+{{<iTablet filename="img/photos" msg="カルテに写真を添付する">}}
 
 ### 手書きについて
 
 スタイラスペンや指を使って自由に記録を残すことができます。何枚でも追加することができます。
 
-{{<iTablet filename="img/freehand" msg="顧客の作成画面">}}
+{{<iTablet filename="img/freehand" msg="カルテに手書きのメモを追加する">}}
 
 ### メモについて
 
 キーボードの操作に慣れている方は、キーボードを使ったメモを残す方法もあります。より詳細に残したいときには手書きよりこちらを推奨します。
 
-{{<iTablet filename="img/memo" msg="顧客の作成画面">}}
+{{<iTablet filename="img/memo" msg="カルテにテキストメモを残す">}}
 
 ## カルテの保存
 

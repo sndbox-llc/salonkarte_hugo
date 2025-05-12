@@ -11,7 +11,7 @@ contributors: []
 
 ## 顧客情報を登録する
 
-{{<iTablet filename="img/makeCustomer" msg="顧客の作成画面">}}
+{{<iTablet filename="img/makeCustomer" msg="顧客データの作成">}}
 
 上の画像は顧客登録画面です。顧客は以下の情報を入力して作成します
 
@@ -49,7 +49,7 @@ contributors: []
 
 登録内容を変更したいときは、顧客一覧から修正したい顧客を見つけ、「修正」ボタンをタップします。
 
-{{<iTablet filename="img/customerEdit" msg="顧客の一覧画面" >}}
+{{<iTablet filename="img/customerEdit" msg="顧客の編集画面" >}}
 
 {{< callout context="caution" title="顧客番号は修正不可能" icon="outline/alert-triangle" >}}
 顧客番号は一度登録すると変更できません。やむを得ず変更する場合は、一度顧客を削除して再登録してください

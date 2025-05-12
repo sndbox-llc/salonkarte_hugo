@@ -1,15 +1,14 @@
-// Put your custom SCSS variables here
-/* h1 */
-$baseColor: #e67e22; // vivid orange（印象的なベースカラー）
+/* h1：ベースカラー（信頼と品格のコア） */
+$baseColor: #8D6E63; // モカブラウン（ミルクココアのような落ち着き）
 
-/* h2 */
-$accentColor: #f39c12; // golden orange（注目させたいアクセント）
+/* h2：アクセントカラー（品のある主張） */
+$accentColor: #A1887F; // ダスティーベージュ（主張しすぎない大人の色気）
 
-/* h3 */
-$subColor: #e59866; // soft orange-brown（少し落ち着いた補助カラー）
+/* h3：サブカラー（少し色気をプラス） */
+$subColor: #BCAAA4; // ローズブラウン系（くすみ系で抜け感演出）
 
-/* h4 */
-$h4Color: #f8c471; // pale orange-beige（軽めで背景にも合う）
+/* h4：淡い背景やボタン装飾に使える柔らかカラー */
+$h4Color: #F5ECE7; // ミルクティベージュ（ほんのりピンクがかった柔らかさ）
 
 $font-family-sans-serif:
   system-ui,

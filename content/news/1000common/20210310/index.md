@@ -15,7 +15,7 @@ pinned: false
 「更に読み込む」のボタンを追加しました。
 
 すべてのカルテを表示できるようにバージョンアップしました
-{{< lightbox src="guide1.jpeg" alt="テスト画像" >}}
+{{< lightbox src="guide1.jpeg" alt="ガイド" >}}
 
 ※サロンカルテ Version 2.1.0 がAndroid版・IOS版双方で最新の2.1.0に更新されました。
 アプリストアからダウンロードのうえご利用ください。

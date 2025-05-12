@@ -31,4 +31,4 @@ https://salonkarte-pre.web.app/
 
 ・パスワードを忘れた場合はE-mailからパスワードの再設定が可能です
 
-{{< lightbox src="login.png" alt="テスト画像" >}}
+{{< lightbox src="login.png" alt="ログイン画面" >}}
