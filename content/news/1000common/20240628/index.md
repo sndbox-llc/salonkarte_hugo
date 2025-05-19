@@ -1,4 +1,5 @@
 ---
+url: 'news/20210628'
 menuTitle: '2021年6月28日|Ver5リリース'
 title: 'Salonkarte Version5へバージョンアップ'
 description: 'Salonkarte Version5へバージョンアップ'
