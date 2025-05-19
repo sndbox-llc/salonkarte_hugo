@@ -4,7 +4,6 @@ menuTitle: '2024年5月12日|Android版の不具合'
 title: 'Android版で起動時にアプリがブラック・アウトする現象を確認しました。「解決済」'
 description: 'Salonkarte Version5へバージョンアップ'
 date: 2024-05-12T13:00:00
-weight: 11100
 categories: []
 tags: []
 contributors: []

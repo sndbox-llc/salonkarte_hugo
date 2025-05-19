@@ -4,7 +4,6 @@ menuTitle: '2022年12月25日|検索不具合解消'
 title: '顧客一覧、検索での不具合を解消いたしました。'
 description: 'Salonkarte Version5へバージョンアップ'
 date: 2022-12-25T13:00:00
-weight: 11000
 categories: []
 tags: []
 contributors: []

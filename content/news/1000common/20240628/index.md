@@ -4,7 +4,6 @@ menuTitle: '2024年6月28日|Ver5リリース'
 title: 'Salonkarte Version5へバージョンアップ'
 description: 'Salonkarte Version5へバージョンアップ'
 date: 2024-06-28T13:00:00
-weight: 11200
 categories: []
 tags: []
 contributors: []

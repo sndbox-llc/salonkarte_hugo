@@ -4,7 +4,6 @@ menuTitle: '2021年3月10日|カルテの表示件数UP'
 title: '過去カルテが２０件までしか表示されない件。解決しました！'
 description: '過去カルテが２０件までしか表示されない件。解決しました！'
 date: 2021-03-10T14:00:00
-weight: 10300
 categories: []
 tags: []
 contributors: []

@@ -4,7 +4,6 @@ menuTitle: '2021年4月7日|バージョンアップ2'
 title: 'バージョンアップ②'
 description: 'バージョンアップ②'
 date: 2021-04-07T16:00:00
-weight: 10500
 categories: []
 tags: []
 contributors: []

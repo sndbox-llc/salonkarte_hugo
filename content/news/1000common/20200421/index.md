@@ -4,8 +4,6 @@ menuTitle: '2020年4月21日|バグ報告'
 title: 'iOS13.4.1に更新すると、画像が回転してしまうバグが発生しています。 ４月２０日現在'
 description: 'iOS13.4.1に更新すると、画像が回転してしまうバグが発生しています。 ４月２０日現在'
 date: 2020-04-21T13:00:00
-weight: 10100
-draft: false
 categories: []
 tags: []
 contributors: []
