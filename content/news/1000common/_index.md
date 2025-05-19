@@ -1,10 +1,10 @@
 +++
-url = "/news/common/"
+url = "/news/update/"
 # aliases = []
-title = "News"
-menuTitle = "News"
+title = "Update"
+menuTitle = "アップデート"
 description = "お知らせ"
 date = "2024-10-03"
-weight = 24000
+weight = 10000
 +++
 

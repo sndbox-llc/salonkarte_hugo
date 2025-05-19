@@ -1,10 +1,10 @@
 ---
-url: 'news/20221225'
+url: 'news/update/20221225'
 menuTitle: '2022年12月25日|検索不具合解消'
 title: '顧客一覧、検索での不具合を解消いたしました。'
 description: 'Salonkarte Version5へバージョンアップ'
 date: 2022-12-25T13:00:00
-draft: false
+weight: 11000
 categories: []
 tags: []
 contributors: []

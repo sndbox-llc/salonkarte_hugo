@@ -1,10 +1,10 @@
 ---
-url: 'news/20210628'
-menuTitle: '2021年6月28日|Ver5リリース'
+url: 'news/update/20210628'
+menuTitle: '2024年6月28日|Ver5リリース'
 title: 'Salonkarte Version5へバージョンアップ'
 description: 'Salonkarte Version5へバージョンアップ'
 date: 2024-06-28T13:00:00
-draft: false
+weight: 11200
 categories: []
 tags: []
 contributors: []

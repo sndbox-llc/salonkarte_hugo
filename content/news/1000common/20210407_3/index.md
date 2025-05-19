@@ -1,10 +1,10 @@
 ---
-url: 'news/20200421_3'
+url: 'news/update/20200421_3'
 menuTitle: '2021年4月7日|バージョンアップ1'
 title: 'バージョンアップ①'
 description: 'バージョンアップ①'
 date: 2021-04-07T15:00:00
-draft: false
+weight: 10600
 categories: []
 tags: []
 contributors: []

@@ -1,10 +1,10 @@
 ---
-url: 'news/20220924'
+url: 'news/update/20220924'
 menuTitle: '2022年9月24日|アカウント削除機能'
 title: 'アカウント削除　実装しました。'
 description: 'アカウント削除　実装しました。'
 date: 2022-09-24T13:00:00
-draft: false
+weight: 10900
 categories: []
 tags: []
 contributors: []

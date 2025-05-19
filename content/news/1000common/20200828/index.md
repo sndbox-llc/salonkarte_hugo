@@ -1,10 +1,10 @@
 ---
-url: 'news/20200828'
+url: 'news/update/20200828'
 menuTitle: '2020年8月28日|ご要望への回答'
 title: 'お客様からご要望への回答です。'
 description: 'お客様からご要望への回答です。'
 date: 2020-08-28T13:00:00
-draft: false
+weight: 10200
 categories: []
 tags: []
 contributors: []
@@ -31,13 +31,15 @@ pinned: false
 現在のサロンカルテのWebアプリ版は、PWAという技術が内包されており、アプリとほぼ遜色なく利用できるようになっています。
 中身はWebページであり、アプリとは異なるため制御が変わり問題が改善するかもしれません。
 
-手順としては次の通り
-Step1：
+手順としては次の通り  
+
+### Step1：
 https://karte.hotaka-g.com/
 
 ここをひらく
 
-Step2:
+### Step2:
+
 この動画に詳しいやり方が書いてあるので動画の手順に沿って操作する
 
 https://www.youtube.com/watch?v=1qSTeHoF1XA

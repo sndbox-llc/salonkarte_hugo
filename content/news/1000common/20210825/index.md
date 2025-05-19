@@ -1,10 +1,10 @@
 ---
-url: 'news/20210825'
+url: 'news/update/20210825'
 menuTitle: '2021年8月25日|全文検索対応'
 title: 'バージョンアップ情報　顧客一覧　全文検索を実装!'
 description: 'アカウント削除　実装しました。'
 date: 2021-08-25T13:00:00
-draft: false
+weight: 10800
 categories: []
 tags: []
 contributors: []

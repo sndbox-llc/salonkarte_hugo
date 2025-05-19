@@ -1,10 +1,10 @@
 ---
-url: 'news/20210710'
+url: 'news/update/20210710'
 menuTitle: '2021年7月10日|テキスト入力画面'
 title: 'テキスト入力画面がバージョンアップしました。（最新バージョン3.0.2）!'
 description: 'テキスト入力画面がバージョンアップしました。（最新バージョン3.0.2）!'
 date: 2021-07-10T13:00:00
-draft: false
+weight: 10700
 categories: []
 tags: []
 contributors: []
