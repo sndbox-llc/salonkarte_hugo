@@ -1,5 +1,5 @@
 title = "サロンカルテ"
-baseurl = "https://salonkarte.sndbox.jp/"
+baseurl = "/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
