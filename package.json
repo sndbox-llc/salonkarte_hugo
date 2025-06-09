@@ -1,10 +1,10 @@
 {
-  "name": "hugo_taskmanh",
+  "name": "hugo_salonkarte",
   "version": "0.0.0",
-  "description": "task man app web site",
+  "description": "サロンカルテ公式Webサイト＆マニュアル",
   "author": "sndbox LLC",
   "license": "MIT",
-  "repository": "https://github.com/sndbox-llc/hugo_taskmanh",
+  "repository": "https://github.com/sndbox-llc/salonkarte_hugo",
   "publishConfig": {
     "access": "public"
   },
