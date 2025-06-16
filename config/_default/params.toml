@@ -1,6 +1,6 @@
 # Hugo
-title = "クラウド型タスク管理システム"
-description = "クラウド型タスク管理システム"
+title = "サロンカルテ（salonkarte）"
+description = "サロン向けのカルテ管理システム。タブレットの手書きのメモで楽々管理。施術前後の写真も残せる"
 images = ["cover.png"]
 
 # mainSections
@@ -118,7 +118,7 @@ mainSections = ["docs"]
 # SEO (@thulite/seo)
 [seo]
   [seo.title]
-    separator = " | "
+    separator = "|"
     suffix = ""
   [seo.favicons]
     sizes = []

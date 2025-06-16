@@ -1,4 +1,4 @@
-title = "サロンカルテ"
+title = "サロンカルテ（salonkarte）"
 baseurl = "https://salonkarte.hotaka-g.jp/"
 canonifyURLs = false
 disableAliases = true
@@ -17,7 +17,7 @@ defaultContentLanguage = "ja"
 disableLanguages = ["en"]
 defaultContentLanguageInSubdir = false
 
-copyRight = "Copyright (c) 2020-2024 hotaka-g.com"
+copyRight = "Copyright (c) 2020-2024 hotaka-g.jp"
 
 [build.buildStats]
   enable = true

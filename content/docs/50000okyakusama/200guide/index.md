@@ -20,13 +20,13 @@ contributors: []
 
 顧客⼀覧から作成したい顧客を⾒つけ、「QRコード表⽰」をタップします
 
-{{<iTablet filename="img/token" msg="" >}}
+{{<iTablet filename="img/token" msg="サロンカルテの顧客リストから対象顧客を選択し、QRコード表示をタップする" >}}
 
 {{<nextArrow>}}
 
 
 その後、「QRコード⽣成」をタップします
-{{<iTablet filename="img/generator" msg="" >}}
+{{<iTablet filename="img/generator" msg="QRコードを生成すると同時にバックグラウンドで顧客にカルテの画像データに対するアクセス権が付与される" >}}
 
 
 ## 顧客のスマートフォンで QR コードその１をスキャンする 
@@ -34,7 +34,7 @@ contributors: []
 QRコードは２種類発⾏されます。最初に上部（Step1）のQRコードをスマートフォンのカメラからスキャンします
 
 
-{{<iTablet filename="img/scan1" msg="" >}}
+{{<iTablet filename="img/scan1" msg="このQRコードはサロンカルテお客様アプリへのURLを表示しています。まずはお客様のスマートフォンからこのQRコードをスキャンしてもらい、お客様アプリを開きます。" >}}
 
 
 スキャンするとサロンカルテ顧客Webアプリがブラウザで表⽰されます。
@@ -89,7 +89,7 @@ QRコードは２種類発⾏されます。最初に上部（Step1）のQRコ�
 ## カルテの作成手順
 カルテ作成時、写真やメモに対して「公開」のチェックボックスが追加されました。チェックをいれると、顧客側のアプリから見ることができます。デフォルトではチェックは常にOFFです。
 
-{{<iTablet filename="img/karte" msg="" >}}
+{{<iTablet filename="img/karte" msg="サロンカルテのカルテ作成画面。公開する情報と非公開にする情報を個別に選択できる。デフォルトでは非公開になっている。" >}}
 
 
 
@@ -97,7 +97,7 @@ QRコードは２種類発⾏されます。最初に上部（Step1）のQRコ�
 
 カルテの履歴からも、公開、非公開状態を見ることができます。赤色は非公開、緑色は公開を表します。
 
-{{<iTablet filename="img/log" msg="" >}}
+{{<iTablet filename="img/log" msg="過去のカルテ画面からも同様に公開済みか非公開の状態を確認できる。" >}}
 
 
 ### お客様アプリから見たカルテ
@@ -117,19 +117,19 @@ QRコードは２種類発⾏されます。最初に上部（Step1）のQRコ�
 
 
 
-{{<iTablet filename="img/notify" msg="" >}}
+{{<iTablet filename="img/notify" msg="全体のお客様に対して通知を発行する。掲載期間や内容を入力して投稿すればお客様アプリを入れている全ユーザに対して通知が届きます。" >}}
 
 
 
 ### 個別通知
 
-{{<iTablet filename="img/customerList" msg="" >}}
+{{<iTablet filename="img/customerList" msg="個別のお客様に対して通知を発行する。来店のお礼などにご活用ください。" >}}
 
 
 {{<nextArrow>}}
 
 
-{{<iTablet filename="img/makeNotify" msg="" >}}
+{{<iTablet filename="img/makeNotify" msg="お客様への通知を作成する画面イメージ" >}}
 
 
 
