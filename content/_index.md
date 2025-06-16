@@ -40,18 +40,19 @@ heroLinks:
 <!-- ▼手書き -->
 <div class="container my-5" id="freehand_drawing">
 <div class="row  rounded-3 border shadow-lg">
-<h2 class="display-4 fw-bold text-body-emphasis lh-1 pt-4">手書きでOK</h2>
+<h2 class="display-4 fw-bold text-body-emphasis lh-1 pt-4">アナログ感覚で直感入力！手書きカルテで施術メモを自由に記録</h2>
 
 <div class="col-lg-7">
 <p class="lead">
 
-カルテ作成時にキーボードの操作は不要です。スタイラスペンで簡単に施術時の内容を記録できます。
-タブレットなら大きめのキャンバスに自由にメモを残すことが可能です。
+お客様の細かな要望や施術中の気づき、イラストなどを、**キーボードいらずで直感的にカルテに記録**できます。まるで紙のカルテに書くように、**スタイラスペンで自由に書き込み**が可能。美容師さん・ネイリストさんなどの専門的な手元の動きや、微妙なニュアンスを瞬時にキャプチャします。  
 
-{{< link-card title="手書きでカルテを書く" description="" href="docs/main/create/#freehand">}}
-
+特にタブレットとスタイラスペンを組み合わせれば、広々としたキャンバスに詳細なメモやイラストをストレスなく残せます。スマートフォンでも手軽にご利用いただけますが、より精度の高い手書き入力にはタブレットがおすすめです。キーボード入力が苦手な方でも、スムーズに、そしてパーソナルなカルテ作成を実現し、お客様との信頼関係を深めます。
 
 </p>
+
+{{< link-card title="手書きカルテの操作方法" description="ペンや指で直感的に書き込める手書き機能。その簡単で自由な使い方を詳しく解説します。" href="docs/main/create/#freehand">}}
+
 </div>
 <div class="col-lg-9">
 {{<iTablet filename="freehand" msg="スタイラスペンで簡単にメモを残せる" alice="ok"  marginLess="true">}}
@@ -63,17 +64,21 @@ heroLinks:
 <!-- ▼マルチデバイス -->
 <div class="container my-5" id="multiDevice_support">
 <div class="row  rounded-3 border shadow-lg">
+<h2 class="display-4 fw-bold text-body-emphasis lh-1 pt-4">いつでもどこでもアクセス！PC・タブレット・スマホで広がるサロン業務の可能性</h2>
+
 <div class="col-lg-7">
-<h2 class="display-4 fw-bold text-body-emphasis lh-1 pt-4">マルチデバイス対応</h2>
 <p class="lead">
 
-完全クラウドだから様々なデバイスでご利用いただけます。
-パソコンとの連携ももちろんOKです。印刷したり、管理者がチェックしたり・・・使いなれたデバイスで操作できます。
+「サロンカルテ」は、**パソコン・タブレット・スマートフォン、あらゆるデバイス**から利用できる**クラウド型Webアプリ**です。特定のOS（Android/iOS）に依存しないため、お使いの既存機器をそのまま活用可能。導入コストを抑え、スタッフ全員が**場所を選ばずどこからでも**、リアルタイムで顧客情報にアクセスできます。<br><br>
+店舗では**タブレット**で施術中のカルテ入力やお客様との共有に、バックヤードでは**PC**で売上管理やデータ分析に、外出先では**スマートフォン**で予約状況の確認や緊急時の顧客情報参照に。サロン業務のあらゆるシーンに柔軟に対応し、**スタッフの働き方を最適化**。業務効率を大幅に向上させ、**顧客対応の質を高めます。**
 
 </p>
+
 {{< link-card title="動作環境" description="" href="docs/system/hard/">}}
+
 </div>
 <div class="col-lg-9">
+
 {{<icatch filename="multi" msg="スマホ・タブレットに対応" alice="ok"  marginLess="true">}}
 
 </div>
@@ -83,14 +88,16 @@ heroLinks:
 <!-- ▼簡単操作 -->
 <div class="container my-5" id="simple_ui">
 <div class="row  rounded-3 border shadow-lg">
-<h2 class="display-4 fw-bold text-body-emphasis lh-1 pt-4">簡単操作</h2>
+<h2 class="display-4 fw-bold text-body-emphasis lh-1 pt-4">マニュアルいらずで即戦力に！現場ファーストの超シンプル設計</h2>
 
 <div class="col-lg-7">
 <p class="lead">
 
-サロンカルテは、現場スタッフが簡単に使いこなせることを主に開発されました。
-予約管理・売上げ管理・分析機能などを排除し管理者と現場スタッフの作業を分け、お客様とのコミュニケーションの最大値を発揮するアプリです。
-これによりサロンへのファン層の定着が実現できます。
+
+「サロンカルテ」は、**現場のサロンスタッフが迷わず直感的に使える**ことを徹底追求し、開発されました。複雑な予約管理や売上分析機能はあえて排除。これにより、**マニュアルを読まなくてもすぐに操作できる**ほどの**シンプルなインターフェース**を実現しています。
+現場スタッフは、煩雑な入力作業に時間を奪われることなく、**お客様とのコミュニケーションに集中**できます。お客様一人ひとりに向き合う時間を最大限に確保することで、より質の高いカウンセリングと施術を提供。結果として、**お客様の「また来たい」という気持ちを育み、サロンのファン層定着に大きく貢献**します。
+
+
 
 </p>
 </div>
@@ -105,15 +112,14 @@ heroLinks:
 <!-- ▼お客様App -->
 <div class="container my-5" id="customer_share">
 <div class="row  rounded-3 border shadow-lg">
-<h2 class="display-4 fw-bold text-body-emphasis lh-1 pt-4">お客様と施術写真を共有</h2>
+<h2 class="display-4 fw-bold text-body-emphasis lh-1 pt-4">顧客満足度を向上！お客様専用アプリでカルテ共有＆スマートな関係構築</h2>
 
 <div class="col-lg-7">
 <p class="lead">
 
-サロンカルテで記録したカルテの一部情報をお客様のスマートフォンから閲覧できます。  
-公開・非公開にする範囲はもちろん任意に設定可能。  
-施術前後の写真をお客様のスマートフォンからいつでも見れるほか、お客様にキャンペーンのお知らせや来店のお礼といったお知らせの配信も可能です。
 
+「サロンカルテ」で作成した大切な**お客様カルテの情報を、ご本人のスマートフォンから閲覧**できる専用アプリを提供。お店に来店しなくても、**前回の施術内容やビフォーアフター写真**をいつでも確認できるため、お客様は次回の来店前にイメージを固めやすく、**パーソナルな体験**を得られます。<br><br>
+共有範囲はサロン側で**自由に設定・管理**できるため、プライバシーも安心。さらに、お客様への**キャンペーン情報や来店のお礼**、特別なご案内などを直接スマートフォンに配信でき、**再来店促進や顧客ロイヤルティの向上**に大きく貢献します。お客様との**デジタルな接点**を強化し、より深く、長期的な関係性を築きましょう。
 
 </p>
 {{< link-card title="お客様アプリ" description="" href="docs/okyakusama/about/">}}
