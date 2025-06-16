@@ -94,3 +94,29 @@ heroLinks:
 </div>
 </div>
 </div>
+
+
+
+<!-- ▼お客様App -->
+<div class="container my-5" id="nocode-custom-daily-report">
+<div class="row align-items-center rounded-3 border shadow-lg">
+<div class="col-lg-7">
+<h2 class="display-4 fw-bold text-body-emphasis lh-1">お客様と施術写真を共有</h2>
+<p class="lead">
+
+サロンカルテで記録したカルテの一部情報をお客様のスマートフォンから閲覧できます。  
+公開・非公開にする範囲はもちろん任意に設定可能。  
+施術前後の写真をお客様のスマートフォンからいつでも見れるほか、お客様にキャンペーンのお知らせや来店のお礼といったお知らせの配信も可能です。
+
+
+</p>
+{{< link-card title="お客様アプリ" description="" href="docs/okyakusama/about/">}}
+
+</div>
+<div class="col-lg-9">
+
+{{<icatch filename="karte" msg="お客様とカルテの情報をシェア" alice="ok">}}
+
+</div>
+</div>
+</div>
