@@ -1,8 +1,8 @@
 ---
 url: '/docs/system/privacy/'
 title: 'プライバシーポリシー'
-menuTitle: ''
-description: ''
+menuTitle: 'プライバシーポリシー'
+description: 'サロンカルテのプライバシーポリシーです。お客様の個人情報の取得、利用目的、管理方法、第三者提供、ユーザーの権利、セキュリティ対策について明確に定めています。安心してサービスをご利用ください。'
 toc: true
 weight: 90500
 tags: []
