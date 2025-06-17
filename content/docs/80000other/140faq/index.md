@@ -1,7 +1,7 @@
 ---
 url: '/docs/other/faq/'
 title: 'よくある質問と答え'
-menuTitle: 'FAQ'
+menuTitle: '❓FAQ'
 description: 'サロンカルテのよくある質問とその答えをまとめました。料金プラン、機能、動作環境、データ移行、セキュリティなど、ご利用に関する疑問や不安を解消し、安心してサービスをお使いいただくための情報を提供します。'
 toc: true
 weight: 80140
