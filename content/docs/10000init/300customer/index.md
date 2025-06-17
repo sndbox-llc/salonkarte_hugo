@@ -28,7 +28,7 @@ contributors: []
 <dl class="basic">
   <dt>顧客番号 <span class="badge bg-danger text-white">必須</span></dt>
   <dd>
-    5桁の数字で構成される、お客様を特定するための一意のIDです。入力必須項目であり、すでに使用済みの番号は重複して使用できません。**自動採番機能もご活用いただけます**。
+    5桁の数字で構成される、お客様を特定するための一意のIDです。入力必須項目であり、すでに使用済みの番号は重複して使用できません。自動採番機能もご活用いただけます。
   </dd>
   <dt>名前・フリガナ <span class="badge bg-danger text-white">必須</span></dt>
   <dd>
