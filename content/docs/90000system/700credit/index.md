@@ -4,7 +4,7 @@ url = "/docs/system/credit/"
 title = "権利・クレジット"
 menuTitle = "権利・クレジット"
 description = "本Webサイトに使用されている画像の取り扱いについて記載しています"
-weight = 90100
+weight = 90700
 toc = false
 
 [sitemap]
