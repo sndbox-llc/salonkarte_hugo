@@ -1,6 +1,6 @@
 +++
 url = "/news/other/"
-# aliases = []
+
 title = "other"
 menuTitle = "お知らせ"
 description = "お知らせ"
