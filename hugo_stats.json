@@ -292,21 +292,12 @@
     "ids": [
       "2021310version-210",
       "2021825",
-      "2021年3月10日カルテの表示件数up",
       "2021年7月10日-version-302",
-      "2021年7月10日テキスト入力画面",
-      "2021年8月25日全文検索対応",
-      "20221225",
       "20221225-version-340",
       "2022924",
-      "2022年12月25日検索不具合解消",
-      "2022年9月24日アカウント削除機能",
-      "202451",
       "202451-version-490",
       "2024628-verson-500",
-      "2024628-全文検索サポート-verson-500",
-      "2024年5月12日android版の不具合修正",
-      "2024年6月28日-全文検索サポート-verson-500",
+      "20251016-version-611",
       "2025729-version-610",
       "TableOfContents",
       "account_protection",
@@ -350,6 +341,7 @@
       "enablePushNotify",
       "errormessage",
       "field_search",
+      "fixed_message",
       "freehand-drawing",
       "freehand_drawing",
       "fully_managed",
@@ -357,12 +349,6 @@
       "generate_qr",
       "high_availability",
       "image_use",
-      "imgguide1",
-      "imgguide2",
-      "imginput1",
-      "imginput2",
-      "imginput3",
-      "imglogin",
       "imgremove",
       "import_cost",
       "import_csv",
@@ -474,8 +460,7 @@
       "第7条利用制限およびアカウントの登録抹消",
       "第8条データ消去",
       "第9条免責事項",
-      "許可する利用例",
-      "２０２５年7月29日-version-610"
+      "許可する利用例"
     ]
   }
 }
