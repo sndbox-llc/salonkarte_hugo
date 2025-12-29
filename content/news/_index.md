@@ -1,10 +1,10 @@
-+++
-url = "news"
-title = "News"
-description = "逆引きアーカイブ"
-date = "2024-10-03"
-weight = 1
-+++
+---
+url: "news"
+title: "News"
+description: "逆引きアーカイブ"
+date: "2024-10-03"
+weight: 1
+---
 
 ## 最新情報
 

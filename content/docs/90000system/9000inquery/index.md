@@ -1,17 +1,15 @@
-+++
-url = "/docs/system/inquery/"
+---
+url: "/docs/system/inquery/"
+title: "お問い合わせ"
+menuTitle: "💬お問い合わせ"
+description: "サロンカルテに関するご質問、有料プランのお申し込み、技術的なご相談など、お気軽にお問い合わせください。電話、メール、またはお問い合わせフォームからご連絡いただけます。"
+toc: false
+weight: 99000
 
-title = "お問い合わせ"
-menuTitle = "💬お問い合わせ"
-description = "サロンカルテに関するご質問、有料プランのお申し込み、技術的なご相談など、お気軽にお問い合わせください。電話、メール、またはお問い合わせフォームからご連絡いただけます。"
-toc = false
-weight = 99000
-
-[sitemap]
-  changefreq = "yearly"
-  priority = 0.9
-+++
-
+sitemap:
+  changefreq: "yearly"
+  priority: 0.9
+---
 
 
 <!-- 電話カード -->
