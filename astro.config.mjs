@@ -47,8 +47,9 @@ export default defineConfig({
             link: 'docs/system/inquery',
             items: [],
           },
+
           {
-            label: '操作ガイド',
+            label: 'サロンカルテ操作ガイド',
             link: 'docs/main/quickstart',
             icon: 'document',
 
@@ -66,21 +67,7 @@ export default defineConfig({
                   { slug: 'docs/main/viewKarte' },
                 ],
               },
-              {
-                label: 'レジシステム',
-                items: [
-                  //
-                  { slug: 'docs/pos/about' },
-                ],
-              },
-              {
-                label: 'お客様アプリ',
-                items: [
-                  //
-                  { slug: 'docs/okyakusama/about' },
-                  { slug: 'docs/okyakusama/guide' },
-                ],
-              },
+
               {
                 label: 'その他',
                 items: [
@@ -104,6 +91,30 @@ export default defineConfig({
                   { slug: 'docs/system/inquery' },
                 ],
               },
+            ],
+          },
+          {
+            label: 'レジシステムについて',
+            link: 'docs/pos/about',
+            icon: 'document',
+            items: [
+              {
+                label: 'レジシステムについて',
+                items: [
+                  //
+                  { slug: 'docs/pos/about' },
+                ],
+              }
+            ],
+          },
+          {
+            label: 'お客様アプリ',
+            link: 'docs/okyakusama/about',
+            icon: 'document',
+            items: [
+                //
+              { slug: 'docs/okyakusama/about' },
+              { slug: 'docs/okyakusama/guide' },
             ],
           },
         ]),
