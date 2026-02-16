@@ -11,7 +11,7 @@ import starlightLinksValidator from 'starlight-links-validator'
 const isProd = process.env.NODE_ENV === 'production'
 
 export default defineConfig({
-  site: 'https://lawmanager.hotaka-g.jp/',
+  site: 'https://salonkarte.hotaka-g.jp/',
   // プリフェッチ設定を有効化
   prefetch: {
     prefetchAll: true,
@@ -22,7 +22,7 @@ export default defineConfig({
   },
   integrations: [
     starlight({
-      title: 'LawManager',
+      title: 'サロンカルテ',
       // ... その他の設定
       favicon: '/images/favicon.svg',
       head: [],
