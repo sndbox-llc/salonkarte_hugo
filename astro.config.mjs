@@ -104,7 +104,7 @@ export default defineConfig({
                   //
                   { slug: 'docs/pos/about' },
                 ],
-              }
+              },
             ],
           },
           {
@@ -112,7 +112,7 @@ export default defineConfig({
             link: 'docs/okyakusama/about',
             icon: 'document',
             items: [
-                //
+              //
               { slug: 'docs/okyakusama/about' },
               { slug: 'docs/okyakusama/guide' },
             ],
@@ -129,7 +129,7 @@ export default defineConfig({
         {
           icon: 'github',
           label: 'GitHub',
-          href: 'https://github.com/sndbox-llc/hugo_taskmanh',
+          href: 'https://github.com/sndbox-llc/astoro_salonkarte',
         },
       ],
     }),
